@@ -1,2 +1,2 @@
-ahbbcc/spark:3.3.2-java17
-ahbbcc/spark-py:3.3.2-java17-aws
+ahbbcc/rstudio-notebook:hub-1.5.0
+ahbbcc/code-server-go-nodejs:v4
