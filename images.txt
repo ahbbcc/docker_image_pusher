@@ -1,2 +1,3 @@
-ahbbcc/jupyterlab-spark-3.3.2-hadoop-3:v4-17-rf
-ahbbcc/jupyterlab-spark-3.3.2-hadoop-3:v4-17-rf-worker
+ahbbcc/jupyterlab-spark-3.3.2-hadoop-3:v5-rf-worker
+ahbbcc/jupyterlab-spark-3.3.2-hadoop-3:v1
+ahbbcc/jupyterlab-spark-3.3.2-hadoop-3:v1-worker
