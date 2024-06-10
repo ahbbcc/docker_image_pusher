@@ -1,2 +1,1 @@
-ahbbcc/rstudio-notebook:hub-1.5.0
-ahbbcc/code-server-go-nodejs:v4
+ahbbcc/overleaf-aai:v4
