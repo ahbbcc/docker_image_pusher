@@ -1,1 +1,9 @@
-ahbbcc/p4a-ucas-notebook:v6
+ahbbcc/getdatanumbygeonameandgoal:v1
+ahbbcc/getdatanumbygeonameandgoal:v2
+ahbbcc/getdatanumbygeonameandgoal:latest
+ahbbcc/getgeoareadataofseries:v1
+ahbbcc/getgeoareadataofseries:latest
+ahbbcc/getgeoareanameinsdgdata:v1
+ahbbcc/getgeoareanameinsdgdata:latest
+ahbbcc/getindicatorsandseriesbytarget:v1
+ahbbcc/getindicatorsandseriesbytarget:latest
