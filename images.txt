@@ -1,4 +1,2 @@
-ahbbcc/h20-c:v2
-ahbbcc/tradedata:v1
-ahbbcc/covid-stat:v2
-ahbbcc/qingyulu:2023.3.3
+ahbbcc/jupyterlab-spark-3.3.2-hadoop-3:v4-17-rf
+ahbbcc/jupyterlab-spark-3.3.2-hadoop-3:v4-17-rf-worker
