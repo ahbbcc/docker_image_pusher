@@ -1,4 +1,3 @@
-alpine
 ahbbcc/qgisandgrass:v1
 ahbbcc/code-server:v2
 ahbbcc/syisr-notebook:v1.1
