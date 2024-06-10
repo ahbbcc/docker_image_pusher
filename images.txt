@@ -1,1 +1,4 @@
-ahbbcc/syisr-notebook:v1.1
+ahbbcc/h20-c:v2
+ahbbcc/tradedata:v1
+ahbbcc/covid-stat:v2
+ahbbcc/qingyulu:2023.3.3
