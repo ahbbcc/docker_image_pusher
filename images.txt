@@ -1,1 +1,1 @@
-ahbbcc/overleaf-aai:v4
+ahbbcc/p4a-ucas-notebook:v6
