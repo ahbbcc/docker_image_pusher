@@ -1,9 +1,5 @@
-ahbbcc/getdatanumbygeonameandgoal:v1
-ahbbcc/getdatanumbygeonameandgoal:v2
-ahbbcc/getdatanumbygeonameandgoal:latest
-ahbbcc/getgeoareadataofseries:v1
-ahbbcc/getgeoareadataofseries:latest
-ahbbcc/getgeoareanameinsdgdata:v1
-ahbbcc/getgeoareanameinsdgdata:latest
-ahbbcc/getindicatorsandseriesbytarget:v1
-ahbbcc/getindicatorsandseriesbytarget:latest
+ahbbcc/datascience-notebook:3.11.pdata
+ahbbcc/datascience-notebook:3.11.ydata
+ahbbcc/datascience-notebook:hub-4.0.2-ydata
+ahbbcc/datascience-notebook:hub-3.0.0-ydata
+ahbbcc/datascience-notebook:hub-3.0.0-ydata-gx
