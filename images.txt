@@ -1,5 +1,1 @@
-ahbbcc/datascience-notebook:3.11.pdata
-ahbbcc/datascience-notebook:3.11.ydata
-ahbbcc/datascience-notebook:hub-4.0.2-ydata
-ahbbcc/datascience-notebook:hub-3.0.0-ydata
-ahbbcc/datascience-notebook:hub-3.0.0-ydata-gx
+frooodle/s-pdf:latest
