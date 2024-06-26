@@ -1,4 +1,1 @@
-kiliandeca/excalidraw-storage-backend
-excalidraw/excalidraw-room
-kiliandeca/excalidraw
-redis
+excalidraw/excalidraw
