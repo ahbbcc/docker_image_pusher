@@ -1,1 +1,4 @@
-yy194131/excalidraw-cn:0.1.3
+kiliandeca/excalidraw-storage-backend
+excalidraw/excalidraw-room
+kiliandeca/excalidraw
+redis
