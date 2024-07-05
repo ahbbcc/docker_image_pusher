@@ -1,1 +1,1 @@
-datajuicer/data-juicer:v0.2.0
+bitnami/deepspeed:0.14.4
