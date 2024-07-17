@@ -1,1 +1,1 @@
-ollama/ollama:latest
+ghcr.io/maastrichtu-ids/jupyterlab:pytorch
