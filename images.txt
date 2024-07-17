@@ -1,1 +1,1 @@
-jupyter/tensorflow-notebook
+jupyter/tensorflow-notebook:python-3.10
