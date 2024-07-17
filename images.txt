@@ -1,1 +1,1 @@
-ghcr.io/maastrichtu-ids/jupyterlab:pytorch
+jupyter/tensorflow-notebook
