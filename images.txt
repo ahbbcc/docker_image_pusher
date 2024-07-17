@@ -1,1 +1,1 @@
-bitnami/deepspeed:0.14.4
+gpu-operator-node-feature-discovery-worker-zb2dc
