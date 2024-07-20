@@ -1,1 +1,1 @@
-jupyter/tensorflow-notebook:python-3.10
+jupyter/datascience-notebook:x86_64-ubuntu-22.04
