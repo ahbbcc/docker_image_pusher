@@ -1,9 +1,1 @@
-teambraker/braker3:v1.0.6
-teambraker/braker3:v1.0.5
-teambraker/braker3:v1.0.4.2
-teambraker/braker3:v.1.0.4.1
-teambraker/braker3:v.1.0.4
-teambraker/braker3:v.1.0.3
-teambraker/braker3:v.1.0.2
-teambraker/braker3:v.1.0.1
 teambraker/braker3:v.1.0.0
