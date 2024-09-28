@@ -1,7 +1,3 @@
-teambraker/braker3:v3.0.7.5
-teambraker/braker3:devel
-teambraker/braker3:isoseq
-teambraker/braker3:v3.0.7.4
 teambraker/braker3:v3.0.7.3
 teambraker/braker3:v3.0.7.2
 teambraker/braker3:v3.0.7.1
