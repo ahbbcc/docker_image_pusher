@@ -1,4 +1,1 @@
-teambraker/braker3:v3.0.7.3
-teambraker/braker3:v3.0.7.2
-teambraker/braker3:v3.0.7.1
-teambraker/braker3:pag
+teambraker/braker3:v3.0.7
