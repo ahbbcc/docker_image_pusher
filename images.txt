@@ -1,1 +1,2 @@
-teambraker/braker3:v.1.0.0
+heartexlabs/label-studio:latest
+pgautoupgrade/pgautoupgrade:13-alpine
