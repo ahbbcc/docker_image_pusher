@@ -1,2 +1,1 @@
-heartexlabs/label-studio:latest
-pgautoupgrade/pgautoupgrade:13-alpine
+pypa/bandersnatch
