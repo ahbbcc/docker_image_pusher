@@ -1,1 +1,2 @@
-pypa/bandersnatch
+golang:1.19
+node:20-slim
