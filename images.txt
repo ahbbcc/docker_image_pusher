@@ -1,1 +1,1 @@
-satijalab/seurat:latest
+satijalab/seurat:5.0.0
