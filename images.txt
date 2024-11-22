@@ -1,2 +1,1 @@
-iracooke/movp:0.5
-iracooke/movp:0.4
+elasticdump/elasticsearch-dump
