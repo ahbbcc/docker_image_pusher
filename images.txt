@@ -1,1 +1,1 @@
-xprobe/xinference
+localai/localai:v2.23.0-cublas-cuda12-ffmpeg
